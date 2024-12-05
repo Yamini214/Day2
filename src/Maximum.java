@@ -8,7 +8,8 @@
             System.out.print("Second  Number:");
             int num2=scanner.nextInt();
             int max=(num1>num2) ? num1:num2;
-            System.out.println("Maximum Number:"+max);        }
+            System.out.println("Maximum Number:"+max);
+        }
     }
 
 
